@@ -1,0 +1,17 @@
+git config --global user.name: Define um usuário
+git config --global user.email: Define um e-mail
+git init: Cria um novo repositório
+git status: Verificar estado dos arquivos/diretórios
+git add (nome do arquivo/diretório): Adiciona um arquivo ou diretório específico
+git add .: Adiciona todos os arquivos/diretórios
+mkdir: Cria um novo diretório
+touch: Cria um novo arquivo
+git commit -m Mensagem: Comita umm arquivo informando uma mensagem
+git rm (Nome do arquivo): Remove um arquivo
+git rm -r (Nome do diretório): Remove um diretório
+git push -u origin (nome da Branch): Envia arquivos para o repositório remoto Obs. após realizar esse comando, os demas pushes precisarão apenas do git push 
+git pull: Atualiza os arquivos na Branch atual
+git clone (Nome da URL do repositório): Clona um repositório já existente
+git branch: Cria uma nova Branch
+git checkout (nome da Branch): Altera a Branch atual para a Branch informada no comando
+git branch: Lista todas as Branches existentes no repositório
